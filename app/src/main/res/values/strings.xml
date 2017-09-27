@@ -1,0 +1,8 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">SocialNetworkingDemo</string>
+    <string name="facebook_app_id">274509879709650</string>
+    <string name="fb_login_protocol_scheme">fb274509879709650</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">emGzSxEUsfCFXRq1T08UJF0CN</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">5bNoZ4eouueRKR8Sj7P6sKUnPtlLBfiktS25H5R6wT60N2incR</string>
+
+</resources>

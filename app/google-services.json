@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "983097551096",
+    "project_id": "firebase-socialnetworkingdemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983097551096:android:d544016fdc2a3d7e",
+        "android_client_info": {
+          "package_name": "com.example.priya.socialnetworkingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983097551096-g0511k6f633oap7ar2jh4e5pe4dhb7d7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priya.socialnetworkingdemo",
+            "certificate_hash": "7bab5d77076c0814c929bf274d77ce6569d76453"
+          }
+        },
+        {
+          "client_id": "983097551096-1hutb19198tud0caqr9k73lt4tril032.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqLszYwJJH297hHOUby8cleQDYZLYwIh0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
